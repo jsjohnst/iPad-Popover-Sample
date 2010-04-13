@@ -1,0 +1,357 @@
+TMy
+v7
+r0
+t292868758.762298
+cCheck dependencies
+cCpResource build/Debug-iphoneos/My.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/Info.plist My-Info.plist
+cCompileXIB /Users/duivesteyn/Desktop/My/MainWindow.xib
+cCompileXIB /Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib
+cCompileXIB /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.xib
+cProcessPCH /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch.gch My_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/main.o /Users/duivesteyn/Desktop/My/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyAppDelegate.o /Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewController.o /Users/duivesteyn/Desktop/My/Classes/MyViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewControllerForPopover.o /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cProcessProductPackaging "/Users/duivesteyn/Library/MobileDevice/Provisioning Profiles/83160F6C-8663-4CD7-8BFE-2D403D9278B8.mobileprovision" /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/embedded.mobileprovision
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My.xcent
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk
+c000000004BB1E5010000000000000110
+t1269949697
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+c000000004B9F103D00000000000000DD
+t1268715581
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+c000000004B9F103D00000000000001E5
+t1268715581
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AC100000000003B4B70
+t1268792001
+s3885936
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F26D2000000000036A650
+t1268721362
+s3581520
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F26B90000000000001355
+t1268721337
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B9F318D000000000000098F
+t1268724109
+s2447
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B9F32090000000002703230
+t1268724233
+s40907312
+
+N/Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib
+c000000004BC49AFB0000000000004B02
+t1271175931
+s19202
+
+N/Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.h
+c000000004BC49A4000000000000001BD
+t1271175744
+s445
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m
+c000000004BC49A400000000000000285
+t1271175744
+s645
+i"MyAppDelegate.h"
+i"MyViewController.h"
+
+N/Users/duivesteyn/Desktop/My/Classes/MyViewController.h
+c000000004BC49AD80000000000000146
+t1271175896
+s326
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/My/Classes/MyViewController.m
+c000000004BC49A740000000000000B4C
+t1271175796
+s2892
+i"MyViewController.h"
+
+N/Users/duivesteyn/Desktop/My/MainWindow.xib
+c000000004BC49A400000000000004CD7
+t1271175744
+s19671
+
+N/Users/duivesteyn/Desktop/My/MyViewController.xib
+c000000004BC49A400000000000003ECD
+t1271175744
+s16077
+
+N/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.h
+c000000004BC49AB100000000000000EF
+t1271175857
+s239
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m
+c000000004BC49ABE0000000000000658
+t1271175870
+s1624
+i"MyViewControllerForPopover.h"
+
+N/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.xib
+c000000004BC49B10000000000000577C
+t1271175952
+s22396
+
+N/Users/duivesteyn/Desktop/My/My_Prefix.pch
+c000000004BC49A4000000000000000AD
+t1271175744
+s173
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app
+t2
+s0
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app.dSYM
+t2
+s0
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/Info.plist
+t1271175955
+s870
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/MainWindow.nib
+t1271175956
+s1107
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/My
+t2
+s0
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/MyViewController.nib
+t1271175956
+s1439
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/MyViewControllerForPopover.nib
+t1271175956
+s1525
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/PkgInfo
+t1271175955
+s8
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/ResourceRules.plist
+t1271175955
+s485
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/embedded.mobileprovision
+t1271175958
+s7187
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My.xcent
+t1271175958
+s315
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/My.LinkFileList
+c000000004BC49B1300000000000001AB
+t1271175955
+s427
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyAppDelegate.o
+t1271175958
+s42940
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewController.o
+t2
+s0
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewControllerForPopover.o
+t1271175958
+s34656
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/main.o
+t1271175958
+s6404
+
+N/Users/duivesteyn/Desktop/My/main.m
+c000000004BC49A400000000000000160
+t1271175744
+s352
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Library/MobileDevice/Provisioning Profiles/83160F6C-8663-4CD7-8BFE-2D403D9278B8.mobileprovision
+c000000004B609CF50000000000001C13
+t1264622837
+s7187
+
+N/var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch.gch
+t1271175958
+s9421460
+
+NMy-Info.plist
+c000000004BC49A4000000000000004D6
+t1271175744
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292868755#292868755#0(0"0(0#1#0"4300911832#0"0#
+
+CCodeSign /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app
+r0
+
+CCompileC build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyAppDelegate.o /Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292868758.463564
+e292868758.575549
+r1
+xCompileC
+xbuild/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyAppDelegate.o
+x/Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m292868758#292868758#0(0"0(0#0#52"/Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m4300911832#1602"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-generated-files.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-own-target-headers.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-project-headers.hmap -F/Users/duivesteyn/Desktop/My/build/Debug-iphoneos -I/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/include -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources/armv7 -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch -c /Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m -o /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyAppDelegate.o0#
+
+CCompileC build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewController.o /Users/duivesteyn/Desktop/My/Classes/MyViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292868758.551088
+e292868758.621932
+r0
+xCompileC
+xbuild/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewController.o
+x/Users/duivesteyn/Desktop/My/Classes/MyViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/duivesteyn/Desktop/My/Classes/MyViewController.m: In function '-[MyViewController someAction:]':
+o/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:42: error: 'MyViewControllerForPopover' undeclared (first use in this function)
+o/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:42: error: (Each undeclared identifier is reported only once
+o/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:42: error: for each function it appears in.)
+o/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:42: error: 'myViewControllerForPopover' undeclared (first use in this function)
+o/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:44: error: object cannot be set - either readonly property or no setter found
+lSLF07#2@63"Compile /Users/duivesteyn/Desktop/My/Classes/MyViewController.m292868758#292868758#0(728"/Users/duivesteyn/Desktop/My/Classes/MyViewController.m: In function '-[MyViewController someAction:]':/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:42: error: 'MyViewControllerForPopover' undeclared (first use in this function)/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:42: error: (Each undeclared identifier is reported only once/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:42: error: for each function it appears in.)/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:42: error: 'myViewControllerForPopover' undeclared (first use in this function)/Users/duivesteyn/Desktop/My/Classes/MyViewController.m:44: error: object cannot be set - either readonly property or no setter found3(4@68"'MyViewControllerForPopover' undeclared (first use in this function)292868758#104#136#0(6@55"/Users/duivesteyn/Desktop/My/Classes/MyViewController.m292868596#42#0#42#0#43"'*' undeclared (first use in this function)0(4@68"'myViewControllerForPopover' undeclared (first use in this function)292868758#458#136#0(6@55"/Users/duivesteyn/Desktop/My/Classes/MyViewController.m292868596#42#0#42#0#43"'*' undeclared (first use in this function)0(4@66"Object cannot be set - either readonly property or no setter found292868758#594#134#0(6@55"/Users/duivesteyn/Desktop/My/Classes/MyViewController.m292868596#44#0#44#0#0"0(0#0#55"/Users/duivesteyn/Desktop/My/Classes/MyViewController.m4300911832#1608"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-generated-files.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-own-target-headers.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-project-headers.hmap -F/Users/duivesteyn/Desktop/My/build/Debug-iphoneos -I/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/include -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources/armv7 -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch -c /Users/duivesteyn/Desktop/My/Classes/MyViewController.m -o /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewController.o1#
+
+CCompileC build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewControllerForPopover.o /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292868758.575671
+e292868758.675113
+r1
+xCompileC
+xbuild/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewControllerForPopover.o
+x/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m292868758#292868758#0(0"0(0#0#57"/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m4300911832#1620"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-generated-files.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-own-target-headers.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-project-headers.hmap -F/Users/duivesteyn/Desktop/My/build/Debug-iphoneos -I/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/include -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources/armv7 -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch -c /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m -o /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewControllerForPopover.o0#
+
+CCompileC build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/main.o /Users/duivesteyn/Desktop/My/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292868758.462118
+e292868758.550960
+r1
+xCompileC
+xbuild/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/main.o
+x/Users/duivesteyn/Desktop/My/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/duivesteyn/Desktop/My/main.m292868758#292868758#0(0"0(0#0#35"/Users/duivesteyn/Desktop/My/main.m4300911832#1576"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-generated-files.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-own-target-headers.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-project-headers.hmap -F/Users/duivesteyn/Desktop/My/build/Debug-iphoneos -I/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/include -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources/armv7 -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch -c /Users/duivesteyn/Desktop/My/main.m -o /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib
+s292868755.196461
+e292868756.289648
+r1
+xCompileXIB
+x/Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib
+lSLF07#2@42"CompileXIB Classes/../MyViewController.xib292868755#292868756#0(0"0(0#0#60"/Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib4300911832#516"    cd /Users/duivesteyn/Desktop/My    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/MyViewController.nib /Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib0#
+
+CCompileXIB /Users/duivesteyn/Desktop/My/MainWindow.xib
+s292868755.195691
+e292868756.263526
+r1
+xCompileXIB
+x/Users/duivesteyn/Desktop/My/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292868755#292868756#0(0"0(0#0#43"/Users/duivesteyn/Desktop/My/MainWindow.xib4300911832#493"    cd /Users/duivesteyn/Desktop/My    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/MainWindow.nib /Users/duivesteyn/Desktop/My/MainWindow.xib0#
+
+CCompileXIB /Users/duivesteyn/Desktop/My/MyViewController.xib
+r0
+
+CCompileXIB /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.xib
+s292868756.263623
+e292868756.755985
+r1
+xCompileXIB
+x/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.xib
+lSLF07#2@41"CompileXIB MyViewControllerForPopover.xib292868756#292868756#0(0"0(0#0#59"/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.xib4300911832#525"    cd /Users/duivesteyn/Desktop/My    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/MyViewControllerForPopover.nib /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.xib0#
+
+CCpResource build/Debug-iphoneos/My.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+s292868755.164715
+e292868755.195520
+r1
+xCpResource
+xbuild/Debug-iphoneos/My.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist292868755#292868755#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist4300911832#517"    cd /Users/duivesteyn/Desktop/My    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/ResourceRules.plist /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app0#
+
+CGenerateDSYMFile /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app.dSYM /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/My
+r0
+
+CLd /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/My normal armv7
+r0
+
+CProcessInfoPlistFile /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/Info.plist My-Info.plist
+s292868755.165976
+e292868755.185263
+r1
+xProcessInfoPlistFile
+x/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/Info.plist
+xMy-Info.plist
+lSLF07#2@21"Process My-Info.plist292868755#292868755#0(0"0(0#0#42"/Users/duivesteyn/Desktop/My/My-Info.plist4300911832#564"    cd /Users/duivesteyn/Desktop/My    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility My-Info.plist -genpkginfo /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/ResourceRules.plist -o /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/Info.plist0#
+
+CProcessPCH /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch.gch My_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s292868756.756358
+e292868758.461918
+r1
+xProcessPCH
+x/var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch.gch
+xMy_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@24"Precompile My_Prefix.pch292868756#292868758#0(0"0(0#0#42"/Users/duivesteyn/Desktop/My/My_Prefix.pch4300911832#1489"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.2 -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-generated-files.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-own-target-headers.hmap -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My-project-headers.hmap -F/Users/duivesteyn/Desktop/My/build/Debug-iphoneos -I/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/include -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources/armv7 -I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/DerivedSources -c /Users/duivesteyn/Desktop/My/My_Prefix.pch -o /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/duivesteyn/Library/MobileDevice/Provisioning Profiles/83160F6C-8663-4CD7-8BFE-2D403D9278B8.mobileprovision" /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/embedded.mobileprovision
+s292868758.675236
+e292868758.713688
+r1
+xProcessProductPackaging
+x/Users/duivesteyn/Library/MobileDevice/Provisioning Profiles/83160F6C-8663-4CD7-8BFE-2D403D9278B8.mobileprovision
+x/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/embedded.mobileprovision
+lSLF07#2@192"ProcessProductPackaging "/Users/duivesteyn/Library/MobileDevice/Provisioning Profiles/83160F6C-8663-4CD7-8BFE-2D403D9278B8.mobileprovision" build/Debug-iphoneos/My.app/embedded.mobileprovision292868758#292868758#0(0"0(0#0#81"/Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/embedded.mobileprovision4300911832#465"    cd /Users/duivesteyn/Desktop/My    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/duivesteyn/Library/MobileDevice/Provisioning Profiles/83160F6C-8663-4CD7-8BFE-2D403D9278B8.mobileprovision" -o /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My.xcent
+s292868758.713776
+e292868758.762216
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist
+x/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My.xcent
+lSLF07#2@160"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist build/My.build/Debug-iphoneos/My.build/My.xcent292868758#292868758#0(0"0(0#0#76"/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My.xcent4300911832#459"    cd /Users/duivesteyn/Desktop/My    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My.xcent0#
+
+CTouch /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app
+r0
+

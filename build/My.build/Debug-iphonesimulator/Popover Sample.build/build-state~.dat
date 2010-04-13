@@ -1,0 +1,318 @@
+TPopover Sample
+v7
+r0
+t292871259.492465
+cCheck dependencies
+cProcessInfoPlistFile /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/Info.plist My-Info.plist
+cCompileXIB /Users/duivesteyn/Desktop/My/MainWindow.xib
+cCompileXIB /Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib
+cCpResource build/Debug-iphonesimulator/My.app/pop.png pop.png
+cProcessPCH /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-cweyesxgsbfjcdeduqxxvvpcbewl/My_Prefix.pch.gch My_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/main.o" /Users/duivesteyn/Desktop/My/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyAppDelegate.o" /Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewController.o" /Users/duivesteyn/Desktop/My/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewControllerForPopover.o" /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My normal i386
+cGenerateDSYMFile /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app.dSYM /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My
+cTouch /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BC1EE910000000000000132
+t1271000721
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib
+c000000004BC4A47E0000000000005A4F
+t1271178366
+s23119
+
+N/Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.h
+c000000004BC49CCB00000000000001B5
+t1271176395
+s437
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m
+c000000004BC4A44F000000000000027D
+t1271178319
+s637
+i"MyAppDelegate.h"
+i"MyViewController.h"
+
+N/Users/duivesteyn/Desktop/My/Classes/MyViewController.h
+c000000004BC49F7700000000000001C6
+t1271177079
+s454
+i<UIKit/UIKit.h>
+i"MyViewControllerForPopover.h"
+
+N/Users/duivesteyn/Desktop/My/Classes/MyViewController.m
+c000000004BC4A3F00000000000001096
+t1271178224
+s4246
+i"MyViewController.h"
+
+N/Users/duivesteyn/Desktop/My/MainWindow.xib
+c000000004BC49A400000000000004CD7
+t1271175744
+s19671
+
+N/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.h
+c000000004BC49CCC00000000000000E7
+t1271176396
+s231
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m
+c000000004BC4A34E0000000000000650
+t1271178062
+s1616
+i"MyViewControllerForPopover.h"
+
+N/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.xib
+c000000004B822CD300000000000042E0
+t1266822355
+s17120
+
+N/Users/duivesteyn/Desktop/My/My_Prefix.pch
+c000000004BC49A4000000000000000AD
+t1271175744
+s173
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app
+t1271178459
+s272
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app.dSYM
+t1271178459
+s102
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/Info.plist
+t1271178457
+s778
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/MainWindow.nib
+t1271178457
+s1107
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My
+t1271178459
+s21668
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/MyViewController.nib
+t1271178457
+s1792
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/MyViewControllerForPopover.nib
+t1271176273
+s1322
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/PkgInfo
+t1271178457
+s8
+
+N/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/pop.png
+t1271178457
+s13039
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/My.LinkFileList
+c000000004BC4A4D900000000000001F3
+t1271178457
+s499
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyAppDelegate.o
+t1271178459
+s42340
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewController.o
+t1271178459
+s41284
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewControllerForPopover.o
+t1271178459
+s35116
+
+N/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/main.o
+t1271178459
+s5924
+
+N/Users/duivesteyn/Desktop/My/main.m
+c000000004BC49CCC0000000000000158
+t1271176396
+s344
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/My/pop.png
+c000000004BC4A41E00000000000032EF
+t1271178270
+s13039
+
+N/var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-cweyesxgsbfjcdeduqxxvvpcbewl/My_Prefix.pch.gch
+t1271178459
+s13805456
+
+NMy-Info.plist
+c000000004BC49A4000000000000004D6
+t1271175744
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292871257#292871257#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyAppDelegate.o" /Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292871259.280236
+e292871259.369295
+r1
+xCompileC
+xbuild/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyAppDelegate.o
+x/Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m292871259#292871259#0(0"0(0#0#52"/Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m4300911832#1833"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-generated-files.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-own-target-headers.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-all-target-headers.hmap" -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-project-headers.hmap" -F/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/include "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources/i386" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources" -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-cweyesxgsbfjcdeduqxxvvpcbewl/My_Prefix.pch -c /Users/duivesteyn/Desktop/My/Classes/MyAppDelegate.m -o "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyAppDelegate.o"0#
+
+CCompileC "build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewController.o" /Users/duivesteyn/Desktop/My/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292871259.338557
+e292871259.430609
+r1
+xCompileC
+xbuild/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewController.o
+x/Users/duivesteyn/Desktop/My/Classes/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/duivesteyn/Desktop/My/Classes/MyViewController.m292871259#292871259#0(0"0(0#0#55"/Users/duivesteyn/Desktop/My/Classes/MyViewController.m4300911832#1839"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-generated-files.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-own-target-headers.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-all-target-headers.hmap" -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-project-headers.hmap" -F/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/include "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources/i386" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources" -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-cweyesxgsbfjcdeduqxxvvpcbewl/My_Prefix.pch -c /Users/duivesteyn/Desktop/My/Classes/MyViewController.m -o "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewController.o"0#
+
+CCompileC "build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewControllerForPopover.o" /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292871259.369424
+e292871259.448812
+r1
+xCompileC
+xbuild/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewControllerForPopover.o
+x/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m292871259#292871259#0(0"0(0#0#57"/Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m4300911832#1851"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-generated-files.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-own-target-headers.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-all-target-headers.hmap" -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-project-headers.hmap" -F/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/include "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources/i386" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources" -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-cweyesxgsbfjcdeduqxxvvpcbewl/My_Prefix.pch -c /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.m -o "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/MyViewControllerForPopover.o"0#
+
+CCompileC "build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/main.o" /Users/duivesteyn/Desktop/My/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292871259.278785
+e292871259.338433
+r1
+xCompileC
+xbuild/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/main.o
+x/Users/duivesteyn/Desktop/My/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/duivesteyn/Desktop/My/main.m292871259#292871259#0(0"0(0#0#35"/Users/duivesteyn/Desktop/My/main.m4300911832#1807"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-generated-files.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-own-target-headers.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-all-target-headers.hmap" -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-project-headers.hmap" -F/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/include "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources/i386" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources" -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-cweyesxgsbfjcdeduqxxvvpcbewl/My_Prefix.pch -c /Users/duivesteyn/Desktop/My/main.m -o "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB /Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib
+s292871257.422987
+e292871257.805302
+r1
+xCompileXIB
+x/Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib
+lSLF07#2@42"CompileXIB Classes/../MyViewController.xib292871257#292871257#0(0"0(0#0#60"/Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib4300911832#530"    cd /Users/duivesteyn/Desktop/My    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/MyViewController.nib /Users/duivesteyn/Desktop/My/Classes/../MyViewController.xib0#
+
+CCompileXIB /Users/duivesteyn/Desktop/My/MainWindow.xib
+s292871257.422150
+e292871257.736789
+r1
+xCompileXIB
+x/Users/duivesteyn/Desktop/My/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib292871257#292871257#0(0"0(0#0#43"/Users/duivesteyn/Desktop/My/MainWindow.xib4300911832#507"    cd /Users/duivesteyn/Desktop/My    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/MainWindow.nib /Users/duivesteyn/Desktop/My/MainWindow.xib0#
+
+CCompileXIB /Users/duivesteyn/Desktop/My/MyViewControllerForPopover.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/My.app/pop.png pop.png
+s292871257.736999
+e292871257.742696
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/My.app/pop.png
+xpop.png
+lSLF07#2@12"Copy pop.png292871257#292871257#0(0"0(0#0#36"/Users/duivesteyn/Desktop/My/pop.png4300911832#478"    cd /Users/duivesteyn/Desktop/My    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/duivesteyn/Desktop/My/pop.png /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app0#
+
+CGenerateDSYMFile /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app.dSYM /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My
+s292871259.470852
+e292871259.488546
+r1
+xGenerateDSYMFile
+x/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app.dSYM
+x/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My
+lSLF07#2@94"GenerateDSYMFile build/Debug-iphonesimulator/My.app.dSYM build/Debug-iphonesimulator/My.app/My292871259#292871259#0(0"0(0#0#66"/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My4300911832#400"    cd /Users/duivesteyn/Desktop/My    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My -o /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app.dSYM0#
+
+CLd /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My normal i386
+s292871259.448917
+e292871259.470738
+r1
+xLd
+x/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My
+xnormal
+xi386
+lSLF07#2@71"Link /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My292871259#292871259#0(0"0(0#0#0"4300911832#863"    cd /Users/duivesteyn/Desktop/My    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator -F/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator -filelist "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/Objects-normal/i386/My.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/My0#
+
+CProcessInfoPlistFile /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/Info.plist My-Info.plist
+s292871257.403659
+e292871257.422048
+r1
+xProcessInfoPlistFile
+x/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/Info.plist
+xMy-Info.plist
+lSLF07#2@21"Process My-Info.plist292871257#292871257#0(0"0(0#0#42"/Users/duivesteyn/Desktop/My/My-Info.plist4300911832#496"    cd /Users/duivesteyn/Desktop/My    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility My-Info.plist -genpkginfo /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app/Info.plist0#
+
+CProcessPCH /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-cweyesxgsbfjcdeduqxxvvpcbewl/My_Prefix.pch.gch My_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292871257.805440
+e292871259.278577
+r1
+xProcessPCH
+x/var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-cweyesxgsbfjcdeduqxxvvpcbewl/My_Prefix.pch.gch
+xMy_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@24"Precompile My_Prefix.pch292871257#292871259#0(0"0(0#0#42"/Users/duivesteyn/Desktop/My/My_Prefix.pch4300911832#1700"    cd /Users/duivesteyn/Desktop/My    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-generated-files.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-own-target-headers.hmap" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-all-target-headers.hmap" -iquote "/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/My-project-headers.hmap" -F/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/include "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources/i386" "-I/Users/duivesteyn/Desktop/My/build/My.build/Debug-iphonesimulator/Popover Sample.build/DerivedSources" -c /Users/duivesteyn/Desktop/My/My_Prefix.pch -o /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-cweyesxgsbfjcdeduqxxvvpcbewl/My_Prefix.pch.gch0#
+
+CTouch /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app
+s292871259.488641
+e292871259.492281
+r1
+xTouch
+x/Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app
+lSLF07#2@69"Touch /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app292871259#292871259#0(0"0(0#0#0"4300911832#315"    cd /Users/duivesteyn/Desktop/My    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/duivesteyn/Desktop/My/build/Debug-iphonesimulator/My.app0#
+

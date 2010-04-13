@@ -1,0 +1,16 @@
+ed85a51ef5f937831aa93e2afb3409a0 2267f3b9c35363abfbea0d3bdc3ce194 ffffffffffffffffffffffffffffffff 315 /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/My.xcent
+00000000000000000000000000000000 ed85a51ef5f937831aa93e2afb3409a0 ffffffffffffffffffffffffffffffff 870 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/Info.plist
+00000000000000000000000000000000 ed85a51ef5f937831aa93e2afb3409a0 ffffffffffffffffffffffffffffffff 8 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/PkgInfo
+00000000000000000000000000000000 c0c8f6f22c74373b825b1a9cb97cb537 ffffffffffffffffffffffffffffffff 7187 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/embedded.mobileprovision
+89f74485b46beed51186c26737e2f0a1 c2d6456e38d7fe8d287cea1848e9e429 ffffffffffffffffffffffffffffffff 34656 /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewControllerForPopover.o
+89f74485b46bee761186c26737e2fc1c 66f3910244c9afe49ad796302baa1fcb ffffffffffffffffffffffffffffffff 0 /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyViewController.o
+89f74485b430458f1186c26737e2fde7 0cfbcc88c8432802b61560df66a8f5ed ffffffffffffffffffffffffffffffff 42940 /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/MyAppDelegate.o
+89f74485ffaf749a1186c26737e2f776 951182c95ac6947ff199337f257b9308 ffffffffffffffffffffffffffffffff 6404 /Users/duivesteyn/Desktop/My/build/My.build/Debug-iphoneos/My.build/Objects-normal/armv7/main.o
+000000004bc48d740000000000001a77 89f74485b43052231186c26737e2e5ee ffffffffffffffffffffffffffffffff 9421460 /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/My_Prefix-bggzpuiuatfojlgqwgfvggtgzplr/My_Prefix.pch.gch
+000000004bc49b10000000000000577c 1b2825e7d29f69996b16a8c805340a71 ffffffffffffffffffffffffffffffff 1525 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/MyViewControllerForPopover.nib
+000000004bc49afb0000000000004b02 ce45116862218100238de715a38698b9 ffffffffffffffffffffffffffffffff 1439 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/MyViewController.nib
+000000004bc49a400000000000004cd7 ffe678a892af5b108261077ee32bc2a4 ffffffffffffffffffffffffffffffff 1107 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/MainWindow.nib
+00000000000000000000000000000000 b62d1e3d3260c13448791e247c943f36 ffffffffffffffffffffffffffffffff 485 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/ResourceRules.plist
+ffffffffffffffffffffffffffffffff 8c9668096d9473ac6c9b0fa093bc3b2e ffffffffffffffffffffffffffffffff 0 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app.dSYM
+ffffffffffffffffffffffffffffffff c4e0b63753dd72e48f54c83731e02159 ffffffffffffffffffffffffffffffff 0 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app
+ffffffffffffffffffffffffffffffff fa6674204cb9239cb05c79de4427c5ff ffffffffffffffffffffffffffffffff 0 /Users/duivesteyn/Desktop/My/build/Debug-iphoneos/My.app/My
